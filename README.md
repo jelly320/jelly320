@@ -42,9 +42,9 @@ Here are some ideas to get you started:
 -->
 
 
-🚀Knowledge is infinite. 
+🚀**Knowledge is infinite**
 
-**Languages and Tools:**  
+⚡ **Languages and Tools:**  
 ![Go](https://img.shields.io/badge/-Go-black?style=plastic&logo=Go) 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
@@ -52,6 +52,6 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 
 
-📈 My GitHub Stats
+📈 **My GitHub Stats:**
 
 ![Jelly's GitHub stats](https://github-readme-stats.vercel.app/api?username=jelly320&count_private=true&show_icons=true)
