@@ -40,7 +40,8 @@ Here are some ideas to get you started:
 -->
 
 
-🚀Learning...
+🚀Knowledge is infinite. 
+
 **Languages and Tools:**  
 ![Go](https://img.shields.io/badge/-Go-black?style=plastic&logo=Go) 
 ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
